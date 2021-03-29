@@ -3,10 +3,14 @@
 ## Preview
 
 ### Book Search preview:
-![Saved Book](bookSearch.png)
+![Book Search](bookSearch.png)
 
 ### Saved Book preview:
 ![Saved Book](savedBook.png)
+
+### MongoDB Collection - googlebooks:
+
+![mongoDB googlebooks collection](mongo.png)
 
 ### Overview
 
